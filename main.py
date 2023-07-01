@@ -9,7 +9,7 @@ if __name__ == '__main__':
 
     
     speaker.speak("Hello! I am Weatheria, your reliable weather-telling app.")
-    speaker.speak("i was created by Mr.aryan chandra")
+    speaker.speak("i was created by Mr.aryan")
     speaker.speak("Feel free to ask me about the weather in any city by simply typing its name below")
 
     with open("your_APIkey", "r")as readme:
